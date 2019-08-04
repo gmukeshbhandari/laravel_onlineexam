@@ -1,0 +1,40 @@
+.footer-custom
+{
+    border-top: 1px solid gray;
+}
+
+.custom
+{
+    padding: 50px;
+    border: 3px solid black;
+    background: #DFD297;
+}
+
+.jumbotron{
+    margin-top:2px;
+    margin-bottom:5px;
+    padding-top:10px;
+    background:#50d07d;
+}
+
+.jumbotron p {
+    line-height: 20px;
+    color: #651287;
+}
+
+.navbar{
+    margin-bottom:5px;
+}
+
+.foot {
+    background: #d3d3d3;
+    margin-top: 5px;
+    padding-bottom: 10px;
+}
+
+.modalphoto{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
